@@ -177,7 +177,7 @@ Users have the ability to reopen closed cases. Reopen displays in the Action men
 
 ## Caseworker
 
-Case worker roles have the ability to request approval for a case plan, BIA, or closure from the manager. This is done by going into the ACTIONS button dropdown, clicking on "Request Approval," and then clicking on the type of approval you would like to request. This will produce a modal to submit the request.
+Case worker roles have the ability to request approval for a case plan or closure from the manager. This is done by going into the ACTIONS button dropdown, clicking on "Request Approval," and then clicking on the type of approval you would like to request. This will produce a modal to submit the request.
 
 If you request a case plan approval, the below modal will appear. Select a case plan type \(the options will correspond with the various response types\) and then click "OK."
 
@@ -193,9 +193,9 @@ All approvals for a case will also appear in the Approvals form section on the c
 
 ## Managers
 
-Managers may have the ability to approve a case's case plan and/or closure, depending on configuration. To check to see if any approvals have been requested for a case, a manager can go to the Approvals form on the case view page (pictured above). As you can see, an entry for an approval in the forms will tell you what type of approval it is (BIA, Case Plan or Closure).
+Managers may have the ability to approve a case's case plan and/or closure, depending on configuration. To check to see if any approvals have been requested for a case, a manager can go to the Approvals form on the case view page (pictured above). As you can see, an entry for an approval in the forms will tell you what type of approval it is (Case Plan or Closure).
 
-To perform an approval, go into the ACTIONS button dropdown, click "Approvals," and then click either "Approve Case Plan," "Approve Closure," or "Approve BIA," depending on the type of approval. You will see a modal like the one pictured below. To complete the approval, simply click the "Yes" check box, add in any necessary comments, then click "SUBMIT."
+To perform an approval, go into the ACTIONS button dropdown, click "Approvals," and then click either "Approve Case Plan," or "Approve BIA," depending on the type of approval. You will see a modal like the one pictured below. To complete the approval, simply click the "Yes" check box, add in any necessary comments, then click "SUBMIT."
 
 ![](/img/image93.png)
 
