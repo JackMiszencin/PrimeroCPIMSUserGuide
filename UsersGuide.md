@@ -195,7 +195,7 @@ All approvals for a case will also appear in the Approvals form section on the c
 
 Managers may have the ability to approve a case's case plan and/or closure, depending on configuration. To check to see if any approvals have been requested for a case, a manager can go to the Approvals form on the case view page (pictured above). As you can see, an entry for an approval in the forms will tell you what type of approval it is (BIA, Case Plan or Closure).
 
-To perform an approval, go into the ACTIONS button dropdown, click "Approvals," and then click either "Approve Case Plan," "Approve Closure," or "Approve BIA," depending on the type of approval. You will see a modal like the one pictured below. To complete the approval, simply click the "Yes" check box, add in any necessary comments, then click "SUBMIT."
+To perform an approval, go into the ACTIONS button dropdown, click "Approvals," and then click either "Approve Case Plan," "Approve Closure," or "Approve BIA," depending on the type of approval. You will see a modal like the one pictured below. To complete the approval, simply click the "Yes" tick box, add in any necessary comments, then click "SUBMIT."
 
 ![](/img/image93.png)
 
@@ -304,8 +304,6 @@ There are a number of different field types in which you can edit differently.
   * You can type in the first three letters of the month in the format of 01-Jan-2014
 
   * You can use the calendar widget to go to the correct day and select it directly
-
-* **Check Boxes** - You may click one or many of the options using the mouse.
 
 * **Tick Box** - You may click on the box using the mouse.
 
@@ -478,7 +476,7 @@ The next field, “Use date ranges,” allows you to do much the same thing, but
 
 ### Filters
 
-Next, you can put filters on the records you are using to eliminate irrelevant data. By default, each report filters to include only those records with a “Case Status” of “Open” and a “Valid Record?” value of “Yes.” You can create a filter on any single-select, multi-select, tick box, check box, radio button, number, tally, or date field, and for each one, you can specify which values are acceptable for records being included into the report.
+Next, you can put filters on the records you are using to eliminate irrelevant data. By default, each report filters to include only those records with a “Case Status” of “Open” and a “Valid Record?” value of “Yes.” You can create a filter on any single-select, multi-select, tick box, radio button, number, tally, or date field, and for each one, you can specify which values are acceptable for records being included into the report.
 
 Finally, you are asked whether you would like to generate an exportable graph of your report.
 
